@@ -2,6 +2,17 @@
 
 A simulated Android application demonstrating a Panic Button/SOS flow with nearby helper discovery, real-time status updates, and a mock location map. 
 
+
+
+https://github.com/user-attachments/assets/84071c06-6b07-41c0-b900-0e656944257e
+
+
+
+
+
+
+
+
 ## Approach
 
 The app is built entirely with Jetpack Compose using modern Android development practices (MVI-ish state management with StateFlow in a ViewModel). It includes:
